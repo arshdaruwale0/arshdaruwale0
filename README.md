@@ -2,17 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=ARSH%20DARUWALE&fontSize=58&fontColor=00FF66&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=58&descSize=19&descColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=850&lines=I+BUILD+%7C+I+LEARN+%7C+I+AUTOMATE;FULL-STACK+DEVELOPER;AI+%2B+MACHINE+LEARNING;BUILDING+REAL-WORLD+PROJECTS;TURNING+IDEAS+INTO+WORKING+SOFTWARE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=800&lines=I+BUILD+%7C+I+LEARN+%7C+I+AUTOMATE;FULL-STACK+DEVELOPER;AI+%2B+MACHINE+LEARNING;BUILDING+REAL-WORLD+PROJECTS;TURNING+IDEAS+INTO+WORKING+SOFTWARE"/>
 
 <br><br>
 
 <a href="https://github.com/arshdaruwale0"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66"></a>
 <a href="https://www.linkedin.com/in/arsh-daruwale-9b88b1259"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66"></a>
 <a href="mailto:arshdaruwale0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=arshdaruwale0&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS">
 
 <br><br>
 
@@ -26,11 +22,11 @@
 
 # 🖤 $ whoami
 
-**ARSH DARUWALE**
+### ARSH DARUWALE
 
-🎓 B.Tech Computer Science & Engineering  
-🏫 Walchand Institute of Technology, Solapur  
-📅 Expected Graduation: 2027
+🎓 **B.Tech Computer Science & Engineering**  
+🏫 **Walchand Institute of Technology, Solapur**  
+📅 **Expected Graduation: 2027**
 
 I build modern web applications and explore AI/ML to create practical, real-world solutions.
 
@@ -157,7 +153,7 @@ AI-powered lead management project designed to help businesses capture, qualify 
 
 ### 🧠 Lead Intelligence
 
-🔥 `HOT`      🟡 `WARM`      🔵 `COLD`
+🔥 `HOT`       🟡 `WARM`       🔵 `COLD`
 
 ### ✨ Highlights
 
@@ -173,7 +169,7 @@ AI-powered lead management project designed to help businesses capture, qualify 
 
 <br>
 
-<a href="https://ai-lead-flow-ctbw.vercel.app/"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00FF66?style=for-the-badge&logoColor=000000"></a>
+<a href="https://ai-lead-flow-ctbw.vercel.app/"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00FF66?style=for-the-badge"></a>
 
 <a href="https://github.com/arshdaruwale0/AI-LeadFlow"><img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=00FF66"></a>
 
@@ -195,17 +191,9 @@ AI-powered lead management project designed to help businesses capture, qualify 
 
 ---
 
-# 📊 $ github_activity
+# 🔥 $ github_activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arshdaruwale0&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&ring_color=00FF66">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshdaruwale0&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF">
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=arshdaruwale0&theme=dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=777777">
 
@@ -213,23 +201,13 @@ AI-powered lead management project designed to help businesses capture, qualify 
 
 ---
 
-# 🟢 $ contribution_graph
+# 🟢 $ achievements
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshdaruwale0&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true">
-
-</div>
-
----
-
-# 🏆 $ achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arshdaruwale0&theme=matrix&no-frame=true&no-bg=true&margin-w=8">
-
-</div>
+🏗️ Building real-world development projects  
+🤖 Exploring AI & Machine Learning  
+⚡ Learning AI Automation  
+💻 Developing Full-Stack skills  
+🚀 Building and deploying projects  
 
 ---
 
