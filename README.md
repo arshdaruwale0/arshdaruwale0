@@ -31,3 +31,182 @@ Expected Graduation: 2027
 
 I build modern web applications and explore AI/ML
 to create practical, real-world solutions.
+
+🟢 $ current_focus
+
+
+currently_learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Web Development
+
+specialization:
+  - Full-Stack Development
+  - AI / ML
+  - AI Automation
+  - Freelancing
+
+open_to:
+  - Internships
+  - Full-time Developer Roles
+  - AI / ML Opportunities
+
+⚡ $ tech_stack
+Languages
+<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,mysql">
+
+Web Development
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css">
+
+AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,jupyter">
+
+NumPy Pandas scikit-learn Matplotlib Seaborn
+
+Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode">
+
+🚀 $ featured_projects
+
+01. ❤️ Heart Disease Predictor
+
+Machine learning project focused on predicting heart disease risk using patient health-related features.
+
+Features
+
+* Random Forest based prediction
+* Patient feature analysis
+* Risk classification
+* Probability-based output
+* Data visualization
+
+Tech: Python Pandas NumPy scikit-learn Matplotlib Seaborn Gradio Jupyter
+
+
+02. 🧬 Breast Cancer Prediction Model
+
+Machine learning project using the Breast Cancer Wisconsin dataset to predict malignant and benign cases.
+
+Highlights
+
+* Machine learning classification
+* Dataset analysis
+* Malignant vs Benign prediction
+* Data visualization
+* Model experimentation
+
+Tech: Python Pandas NumPy scikit-learn Matplotlib Seaborn Jupyter
+
+03. 🏭 TexSmart
+
+Smart Textile Factory Online Management System
+
+A modern web application concept for managing textile factory operations through a centralized online interface.
+
+Highlights
+
+* Textile management interface
+* Modern dashboard experience
+* Vite-powered frontend
+* Client-side routing
+* Local data management
+* Responsive UI
+
+Tech: React.js TypeScript Vite Tailwind CSS React Router React Query LocalStorage
+
+
+04. 🤖 AI LeadFlow
+
+Intelligent Lead Qualification & Follow-Up System
+
+AI-powered lead management project designed to help businesses capture, qualify and respond to website inquiries faster.
+
+Workflow
+
+CAPTURE → QUALIFY → RESPOND → CONVERT
+
+Highlights
+
+* AI-powered lead qualification
+* HOT / WARM / COLD classification
+* Faster lead response
+* Lead intelligence
+* Automated workflow concept
+* Business automation
+* Live deployed website
+
+Tech: HTML5 CSS3 JavaScript Vercel
+
+📊 $ github_stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arshdaruwale0&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&ring_color=00FF66">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshdaruwale0&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF">
+</div>
+
+
+
+🔥 $ contribution_activity
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=arshdaruwale0&theme=dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=888888">
+</div>
+
+
+🏆 $ achievements
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arshdaruwale0&theme=darkhub&no-frame=true&no-bg=true&margin-w=8">
+</div>
+
+
+🧠 $ what_i_build
+AI & MACHINE LEARNING
+├── Predictive Models
+├── Data Analysis
+├── Classification Systems
+└── AI-powered Solutions
+
+WEB DEVELOPMENT
+├── Modern Frontend Applications
+├── Responsive Interfaces
+├── React Applications
+└── Full-Stack Development
+
+AUTOMATION
+├── Lead Management
+├── AI Lead Qualification
+├── Workflow Automation
+└── Business Process Automation
+
+📜 $ certifications
+
+Be10x
+
+Technology / AI Learning Certification
+
+🎯 $ goals
+2026:
+  - Build stronger full-stack projects
+  - Deepen AI/ML knowledge
+  - Build practical AI automation systems
+  - Contribute to real-world projects
+  - Secure an internship / developer opportunity
+
+🟢 $ let's_connect
+<div align="center">
+
+Open to internships, developer opportunities and AI/ML projects.
+</div>
+
+
+BUILD. LEARN. AUTOMATE. REPEAT.
+
+Made with 🟢 by Arsh Daruwale
+</div>
+```
+
+
+
+
+
+
